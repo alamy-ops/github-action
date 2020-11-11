@@ -2,8 +2,8 @@ FROM node:12-slim
 
 
 LABEL version="1.0.0"
-LABEL repository="https://github.com/serverless/github-action"
-LABEL homepage="https://github.com/serverless/github-action"
+LABEL repository="https://github.com/alamy-ops/github-action"
+LABEL homepage="https://github.com/alamy-ops/github-action"
 LABEL maintainer="Serverless, Inc. <hello@serverless.com> (https://serverless.com)"
 
 LABEL "com.github.actions.name"="Serverless"
